@@ -12,5 +12,10 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    #return view('welcome');
+    return "<h1>Bem vindo ao Omnisciente!</h1>";
+});
+
+Route::get('/home/{macroregion?}', function ($macroregion="sudeste"){
+    return "<h1> Hoooome </h1>";
 });
