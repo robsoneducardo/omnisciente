@@ -2,10 +2,10 @@
 
 namespace App\Http\Controllers;
 
-use App\Macroregion;
+use App\Mesoregion;
 use Illuminate\Http\Request;
 
-class macroregionController extends Controller
+class MesoregionController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -41,10 +41,10 @@ class macroregionController extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  \App\Macroregion  $macroregion
+     * @param  \App\Mesoregion  $mesoregion
      * @return \Illuminate\Http\Response
      */
-    public function show(Macroregion $macroregion)
+    public function show(Mesoregion $mesoregion)
     {
         //
     }
@@ -52,10 +52,10 @@ class macroregionController extends Controller
     /**
      * Show the form for editing the specified resource.
      *
-     * @param  \App\Macroregion  $macroregion
+     * @param  \App\Mesoregion  $mesoregion
      * @return \Illuminate\Http\Response
      */
-    public function edit(Macroregion $macroregion)
+    public function edit(Mesoregion $mesoregion)
     {
         //
     }
@@ -64,10 +64,10 @@ class macroregionController extends Controller
      * Update the specified resource in storage.
      *
      * @param  \Illuminate\Http\Request  $request
-     * @param  \App\Macroregion  $macroregion
+     * @param  \App\Mesoregion  $mesoregion
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, Macroregion $macroregion)
+    public function update(Request $request, Mesoregion $mesoregion)
     {
         //
     }
@@ -75,10 +75,10 @@ class macroregionController extends Controller
     /**
      * Remove the specified resource from storage.
      *
-     * @param  \App\Macroregion  $macroregion
+     * @param  \App\Mesoregion  $mesoregion
      * @return \Illuminate\Http\Response
      */
-    public function destroy(Macroregion $macroregion)
+    public function destroy(Mesoregion $mesoregion)
     {
         //
     }

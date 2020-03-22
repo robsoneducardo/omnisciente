@@ -12,7 +12,6 @@ class MacroregionSeeder extends Seeder
      */
     public function run()
     {
-        print ("Inserindo as macroregioes.\n");
         $csvFile = fopen("database/seeds/macroregions.csv", "r");
         while (($estado = fgetcsv($csvFile)) !== false){
             DB::table('macroregions')->insert([

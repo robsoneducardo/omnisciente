@@ -11,6 +11,10 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-        // $this->call(UsersTableSeeder::class);
+        //print ("Inserindo tudo.\n");
+        //$this->call(UsersTableSeeder::class);
+        $this->call([MacroregionSeeder::class]);
+        $this->call([StateSeeder::class]);
+        $this->call([MesoregionSeeder::class]);
     }
 }

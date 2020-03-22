@@ -16,6 +16,10 @@ Route::get('/', function () {
     return "<h1>Bem vindo ao Omnisciente!</h1>";
 });
 
+//Route::get('/macroregion', 'MacroregionController@index');
+
+Route::resource('/macroregion', 'MacroregionController');
+
 Route::get('/home/{macroregion?}', function ($macroregion="sudeste"){
     return "<h1> Hoooome </h1>";
 });

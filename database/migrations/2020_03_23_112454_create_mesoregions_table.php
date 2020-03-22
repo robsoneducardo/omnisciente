@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateMacroregionsTable extends Migration
+class CreateMesoregionsTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,12 +13,14 @@ class CreateMacroregionsTable extends Migration
      */
     public function up()
     {
-        Schema::create('macroregions', function (Blueprint $table) {
+        Schema::create('mesoregions', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->unsignedInteger('code');
             $table->string('name');
+            $table->unsignedBigInteger('state_id');
+            $table->foreign('state_id')->references('id')
+                  ->on('states');
             $table->timestamps();
-            $table->unique=['code', 'name'];
         });
     }
 
@@ -29,6 +31,6 @@ class CreateMacroregionsTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('macroregions');
+        Schema::dropIfExists('mesoregions');
     }
 }
