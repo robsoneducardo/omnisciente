@@ -1,0 +1,137 @@
+11,01,Madeira-Guaporé
+11,02,Leste Rondoniense
+12,01,Vale do Juruá
+12,02,Vale do Acre
+13,01,Norte Amazonense
+13,02,Sudoeste Amazonense
+13,03,Centro Amazonense
+13,04,Sul Amazonense
+14,01,Norte de Roraima
+14,02,Sul de Roraima
+15,01,Baixo Amazonas
+15,02,Marajó
+15,03,Metropolitana de Belém
+15,04,Nordeste Paraense
+15,05,Sudoeste Paraense
+15,06,Sudeste Paraense
+16,01,Norte do Amapá
+16,02,Sul do Amapá
+17,01,Ocidental do Tocantins
+17,02,Oriental do Tocantins
+21,01,Norte Maranhense
+21,02,Oeste Maranhense
+21,03,Centro Maranhense
+21,04,Leste Maranhense
+21,05,Sul Maranhense
+22,01,Norte Piauiense
+22,02,Centro-Norte Piauiense
+22,03,Sudoeste Piauiense
+22,04,Sudeste Piauiense
+23,01,Noroeste Cearense
+23,02,Norte Cearense
+23,03,Metropolitana de Fortaleza
+23,04,Sertões Cearenses
+23,05,Jaguaribe
+23,06,Centro-Sul Cearense
+23,07,Sul Cearense
+24,01,Oeste Potiguar
+24,02,Central Potiguar
+24,03,Agreste Potiguar
+24,04,Leste Potiguar
+25,01,Sertão Paraibano
+25,02,Borborema
+25,03,Agreste Paraibano
+25,04,Mata Paraibana
+26,01,Sertão Pernambucano
+26,02,São Francisco Pernambucano
+26,03,Agreste Pernambucano
+26,04,Mata Pernambucana
+26,05,Metropolitana de Recife
+27,01,Sertão Alagoano
+27,02,Agreste Alagoano
+27,03,Leste Alagoano
+28,01,Sertão Sergipano
+28,02,Agreste Sergipano
+28,03,Leste Sergipano
+29,01,Extremo Oeste Baiano
+29,02,Vale São-Franciscano da Bahia
+29,03,Centro Norte Baiano
+29,04,Nordeste Baiano
+29,05,Metropolitana de Salvador
+29,06,Centro Sul Baiano
+29,07,Sul Baiano
+31,01,Noroeste de Minas
+31,02,Norte de Minas
+31,03,Jequitinhonha
+31,04,Vale do Mucuri
+31,05,Triângulo Mineiro/Alto Paranaíba
+31,06,Central Mineira
+31,07,Metropolitana de Belo Horizonte
+31,08,Vale do Rio Doce
+31,09,Oeste de Minas
+31,10,Sul/Sudoeste de Minas
+31,11,Campo das Vertentes
+31,12,Zona da Mata
+32,01,Noroeste Espírito-santense
+32,02,Litoral Norte Espírito-santense
+32,03,Central Espírito-santense
+32,04,Sul Espírito-santense
+33,01,Noroeste Fluminense
+33,02,Norte Fluminense
+33,03,Centro Fluminense
+33,04,Baixadas
+33,05,Sul Fluminense
+33,06,Metropolitana do Rio de Janeiro
+35,01,São José do Rio Preto
+35,02,Ribeirão Preto
+35,03,Araçatuba
+35,04,Bauru
+35,05,Araraquara
+35,06,Piracicaba
+35,07,Campinas
+35,08,Presidente Prudente
+35,09,Marília
+35,10,Assis
+35,11,Itapetininga
+35,12,Macro Metropolitana Paulista
+35,13,Vale do Paraíba Paulista
+35,14,Litoral Sul Paulista
+35,15,Metropolitana de São Paulo
+41,01,Noroeste Paranaense
+41,02,Centro Ocidental Paranaense
+41,03,Norte Central Paranaense
+41,04,Norte Pioneiro Paranaense
+41,05,Centro Oriental Paranaense
+41,06,Oeste Paranaense
+41,07,Sudoeste Paranaense
+41,08,Centro-Sul Paranaense
+41,09,Sudeste Paranaense
+41,10,Metropolitana de Curitiba
+42,01,Oeste Catarinense
+42,02,Norte Catarinense
+42,03,Serrana
+42,04,Vale do Itajaí
+42,05,Grande Florianópolis
+42,06,Sul Catarinense
+43,01,Noroeste Rio-grandense
+43,02,Nordeste Rio-grandense
+43,03,Centro Ocidental Rio-grandense
+43,04,Centro Oriental Rio-grandense
+43,05,Metropolitana de Porto Alegre
+43,06,Sudoeste Rio-grandense
+43,07,Sudeste Rio-grandense
+50,01,Pantanais Sul Mato-grossense
+50,02,Centro Norte de Mato Grosso do Sul
+50,03,Leste de Mato Grosso do Sul
+50,04,Sudoeste de Mato Grosso do Sul
+51,01,Norte Mato-grossense
+51,02,Nordeste Mato-grossense
+51,03,Sudoeste Mato-grossense
+51,04,Centro-Sul Mato-grossense
+51,05,Sudeste Mato-grossense
+52,01,Noroeste Goiano
+52,02,Norte Goiano
+52,03,Centro Goiano
+52,04,Leste Goiano
+52,05,Sul Goiano
+53,01,Distrito Federal
