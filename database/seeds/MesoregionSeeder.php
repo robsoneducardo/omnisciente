@@ -16,6 +16,7 @@ class MesoregionSeeder extends Seeder
         $csvFile = fopen("database/seeds/mesoregions.csv", "r");
         while (($input = fgetcsv($csvFile)) !== false){
             $state = State::where('code', $input[0])->first();
+            dd($state);
             $meso = new Mesoregion;
             $meso['state_id']=$state->id;
             $meso['code'] = $input[1];

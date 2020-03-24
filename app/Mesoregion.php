@@ -14,4 +14,8 @@ class Mesoregion extends Model
         return $this->belongsTo('\App\State');
     }
 
+    public function microregions(){
+        return $this->hasMany('App\Microregion');
+    }
+
 }
